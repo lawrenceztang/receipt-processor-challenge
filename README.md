@@ -2,8 +2,8 @@
 
 `cd receipt-processor-challenge`
 
-`pip install flask`
+`pip3 install flask`
 
-`pip install requests`
+`pip3 install requests`
 
 `flask --app main run`
