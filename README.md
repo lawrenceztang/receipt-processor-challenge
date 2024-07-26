@@ -1,7 +1,9 @@
-`git clone receipt-processor-challenge`
+`git clone https://github.com/lawrenceztang/receipt-processor-challenge`
 
-`c`
+`cd receipt-processor-challenge`
 
 `pip install flask`
+
+`pip install requests`
 
 `flask --app main run`
